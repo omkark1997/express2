@@ -1,0 +1,7 @@
+{
+    "port": 9897,
+    "host": "localhost",
+    "database": "hr",
+    "user": "dac",
+    "password": "dac"
+}
